@@ -103,6 +103,7 @@ predict(w1,w2,test)
 
 <H3>Output:</H3>
 
+
 ![318926007-dac338c7-66ee-4134-8a44-c6bcfa93cd81](https://github.com/Bala1511/Ex-3-NN/assets/118680410/6d940162-59b8-4e11-a7ff-9c58176d4e7c)
 
 
